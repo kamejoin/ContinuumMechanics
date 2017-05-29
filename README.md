@@ -6,4 +6,4 @@ This repository contains a collection of Jupyter Notebooks concerning the field 
 
 ## Table of Contents
 
-### 1. 
+### [1. Essential Mathematics](http://nbviewer.jupyter.org/github/kamejoin/ContinuumMechanics/blob/master/notebooks/1.%20Essential%20Mathematics.ipynb) 
